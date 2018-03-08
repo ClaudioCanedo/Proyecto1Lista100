@@ -1,0 +1,93 @@
+#num{
+	color: white;
+	background: #736D70;
+}
+h1{
+	text-align: center;
+	font-family: Castellar;
+	font-size: 80px;
+}
+#parrafo1_1{
+	font-size: 20px;
+	margin-left: 100px;
+	margin-right: 150px;
+}
+#parrafo1_2{
+	font-size: 20px;
+	margin-left: 100px;
+	margin-right: 150px;
+}
+hr{
+	background-color: black;
+}
+
+body{
+	background-image: url(images/fondo2.jpg);
+	background-size: 1000px 1000px;
+	padding: 100px;
+
+}
+
+.centrar{
+	margin:10px auto;
+	display:block;
+}
+
+ol{
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+.uno{
+	color: white;
+	background: #FF5733;
+	font-size: 20px;
+}
+.dos{
+	color: white;
+	background: #16702B;
+	font-size: 20px;
+}
+.tres{
+	color: white;
+	background: #A8039B;
+	font-size: 20px;
+	
+}
+
+.cuatro{
+	color: white;
+	background: #3941D6;
+	font-size: 20px;
+}
+.cinco{
+	color: white;
+	background: #119C31;
+	font-size: 20px;
+}
+.seis{
+	color: white;
+	background: #C9E52D;
+	font-size: 20px;
+}
+.siete{
+	color: white;
+	background: #610D78;
+	font-size: 20px;
+}
+.ocho{
+	color: white;
+	background: #0D7866;
+	font-size: 20px;
+}
+.nueve{
+	color: white;
+	background: #4DA921;
+	font-size: 20px;
+}
+.diez{
+	color: white;
+	background: #A92160;
+	font-size: 20px;
+}
+
